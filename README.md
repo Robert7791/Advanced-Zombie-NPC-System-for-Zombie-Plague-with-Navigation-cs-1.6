@@ -59,7 +59,7 @@
    Npc_example_spawn.amxx
 
 2. В игре введите команды:
-3. /set - Создание точки спавна ввиде креста
+3. /set - Создание точки спавна в виде креста
 4. nsmenu в консоле открывает меню настройки нодов/путей https://forums.alliedmods.net/showthread.php?t=336158&highlight=npc
 
 
