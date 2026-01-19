@@ -67,7 +67,6 @@
 
 1. **API/Нативы для разработчиков**:
    ```bash
-   # Скомпелируйье и разместите в addons/amxmodx/plugins/
    Создать NPC-зомби
    native zl_zombie_create(Float:origin[3], health, speed, damage);
    Удалить всех NPC-зомби
