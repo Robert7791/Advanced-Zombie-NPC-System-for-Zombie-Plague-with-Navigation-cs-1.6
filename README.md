@@ -53,7 +53,7 @@
 
 1. **Настройка**:
    ```bash
-   # Скомпелируйье и разместите в addons/amxmodx/plugins/
+   # Скомпелируйте и разместите в addons/amxmodx/plugins/
    NavigationSystem.amxx
    boss_zombiesystem.amxx
    Npc_example_spawn.amxx
