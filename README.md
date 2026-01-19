@@ -47,7 +47,7 @@
 ### Обязательные
 - [AMX Mod X](https://www.amxmodx.org/) 1.9.0 или выше
 - [Zombie Plague]
-- [ReAPI](https://github.com/s1lentq/reapi) (опционально, но рекомендуется)
+- [ReAPI](https://github.com/s1lentq/reapi)
 
 
 ## 🚀 Установка
