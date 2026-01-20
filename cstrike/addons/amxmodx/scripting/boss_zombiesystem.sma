@@ -116,7 +116,7 @@ const WPN_NOT_DROP = ((1<<2)|(1<<CSW_HEGRENADE)|(1<<CSW_SMOKEGRENADE)|(1<<CSW_FL
 
 public plugin_init()
 {
-	register_plugin("Продвинутая система NPC-зомби для Zombie Plague с навигацией", "2.0b", "Alexander.3/[cfn]/Robert7791");
+	register_plugin("[ZP] Zombie NPC System", "2.0b", "Alexander.3/[cfn]/Robert7791");
 	
 	// Останавливаем плагин, если не идет битва с Боссом или идет битва с Джаггернаутом
 	//if(!zl_boss_map() || zl_boss_map() == 14) {
